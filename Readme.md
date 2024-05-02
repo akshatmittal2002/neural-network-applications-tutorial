@@ -1,4 +1,6 @@
 # Neural Networks and Its Applications
+## Submitted By: Akshat Mittal, 200101011
+
 - This is a tutorial on Neural Networks and its applications.
 - We discuss in details about what is a Neural Network, its architecture and how it works.
 - Then we discuss an application of classifying a planar data using a Neural Network, with non-linear decision boundary and compare it with Logistic Regression.
