@@ -8,7 +8,7 @@
 
 ### Contents
 - Please find the detailed tutorial in the [Jupyter Notebook](./Tutorial.ipynb)
-- Dataset used for trianing is downloaded from Kaggle and can be found at [Link](./Datasets)
+- Dataset used for training is downloaded from Kaggle and can be found at [Link](./Datasets)
 - Some utilities function used in the tutorial can be found at [Link](./Utils)
 
 ### Python Libraries Used
@@ -21,7 +21,11 @@
 pip install numpy matplotlib h5py scikit-learn
 ```
 
+### How to run an IPYNB file
+- Inside Jupyter Notebook, you can run each cell of the IPYNB file by clicking on it and pressing `Shift + Enter` or by using the `Run` button in the toolbar.
+- Alternatively, you can run the whole notebook in a single go by using the `Run All` option in the toolbar.
+
 ### References
-- [Dr. Andrew Ng's]((http://www.andrewng.org/)) Deep Learning Specialization course offered by [`deeplearning.ai`](https://www.deeplearning.ai/) - [Link](https://www.coursera.org/specializations/deep-learning)
-- [Dr. Arijit Sur's](https://www.iitg.ac.in/arijit/) CS_361 Machine Learning course - [Link](http://jatinga.iitg.ernet.in/~arijit/ML2023.htm).
-- Dataset Downloaded from [Kaggle](https://www.kaggle.com/datasets/muhammeddalkran/catvnoncat)
+1. [Dr. Andrew Ng's]((http://www.andrewng.org/)) Deep Learning Specialization course offered by [`deeplearning.ai`](https://www.deeplearning.ai/) - [Link](https://www.coursera.org/specializations/deep-learning)
+2. [Dr. Arijit Sur's](https://www.iitg.ac.in/arijit/) CS_361 Machine Learning course - [Link](http://jatinga.iitg.ernet.in/~arijit/ML2023.htm).
+3. Dataset Downloaded from [Kaggle](https://www.kaggle.com/datasets/muhammeddalkran/catvnoncat)
